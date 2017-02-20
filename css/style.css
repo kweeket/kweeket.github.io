@@ -76,7 +76,7 @@ header img {
   margin-bottom: 1em;
   max-width: 70px
 }
-header h1 {
+h1 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -91,7 +91,7 @@ header h1 {
     padding-top: 200px;
     padding-bottom: 100px;
   }
-  header h1 {
+  h1 {
     font-size: 4.75em;
   }
   header .reading {
