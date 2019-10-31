@@ -1,0 +1,38 @@
+<StockList>
+<Stock xmlns:ms="urn:schemas-microsoft-com:xslt" Ticker="COP">
+<Success>Y</Success>
+<Symbol>COP</Symbol>
+<Desc>ConocoPhillips</Desc>
+<bTime type="time">15:25</bTime>
+<bDate type="date">07/31/2019</bDate>
+<Time type="time">15:25</Time>
+<LTDate type="date">07/31/2019</LTDate>
+<LTTime>15:25</LTTime>
+<Last type="decimal">59.10</Last>
+<High type="decimal">59.74</High>
+<Low type="decimal">58.38</Low>
+<Open type="decimal">59.48</Open>
+<Prev type="decimal">59.51</Prev>
+<Change type="decimal">-0.42</Change>
+<Assets type="int"> </Assets>
+<SevenDayYield type="int">59.10</SevenDayYield>
+<AvgDaysToMaturity type="int"> </AvgDaysToMaturity>
+<Exchange>NYSE</Exchange>
+<SharesOut> </SharesOut>
+<DivYld type="decimal"> </DivYld>
+<Close type="decimal">59.51</Close>
+<YEAR_END_CHANGE val="-3.25"/>
+<YEAR_END_CLOSE val="62.350"/>
+<TMonLow>56.7500</TMonLow>
+<TMonHigh>80.2400</TMonHigh>
+<Week52High>80.2400</Week52High>
+<Week52Low>56.7500</Week52Low>
+<Volume>5471679</Volume>
+<Exchange> </Exchange>
+<PrevVolume>5927762</PrevVolume>
+<PercChange>-0.71</PercChange>
+<SymbolType>EQUITY</SymbolType>
+<BateDateTime>2019-07-31T15:25:00</BateDateTime>
+<DTNTradeDate>07/31/2019</DTNTradeDate>
+</Stock>
+</StockList>
