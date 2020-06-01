@@ -1,0 +1,370 @@
+﻿{
+  "homepageHero": {
+    "header": "The world needs givers.  Time. Talent. Money. Whatever you have to give, someone needs you.",
+    "copy": "PowerOf makes it easy to find opportunities to help people and communities during the COVID-19 crisis. Join others to address the pandemic's impact on our health, well-being, learning, and livelihoods. Feel the power of giving your best.",
+    "cta": "Find ways to help"
+  },
+  "homepagePartners": [
+    {
+      "partner": "Volunteer match",
+      "cta": "View opportunities",
+      "ctaAria": "View opportunities to volunteer",
+      "type": "volunteerMatch",
+      "title": "Volunteer",
+      "path": "/volunteer",
+      "copy": "Connect directly to neighbors, communities, and organizations that need you now.  Find ways to volunteer virtually.  Powered by VolunteerMatch, the web’s largest volunteer engagement network. "
+    },
+    {
+      "partner": "Candid",
+      "type": "candid",
+      "cta": "View opportunities",
+      "ctaAria": "View opportunities to give",
+      "title": "Give",
+      "path": "/donate",
+      "copy": "Support organizations serving people on the frontlines, verified by trusted experts.  Find people, communities, and causes you care about. Powered by Candid and GlobalGiving, trusted providers of data on good causes."
+    },
+    {
+      "partner": "Donors choose",
+      "type": "donorsChoose",
+      "cta": "Find school projects",
+      "title": "Support Schools",
+      "path": "/supportschools",
+      "copy": "Support projects posted by public school teachers.  Get learning resources to students and teachers.  Powered by DonorsChoose, which has supported public schools since 2000."
+    },
+    {
+      "type": "health",
+      "title": "Support Healthcare",
+      "cta": "Support responders",
+      "path": "/health",
+      "copy": "Support doctors, disease-fighting experts, and other healthcare workers. Help provide supplies, expand testing, power scientific research, and more. Powered by Charity Navigator, the world’s largest and most-utilized independent nonprofit evaluator."
+    },
+    {
+      "partner": "Giving Tuesday",
+      "cta": "Spread kindness",
+      "type": "givingTuesday",
+      "title": "Explore Ideas",
+      "path": "/explore",
+      "copy": "Find creative ways to spread kindness and inspire giving.  Connect with others, even while you practice physical distancing. Powered by GivingTuesday, the global generosity movement."
+    }
+  ],
+
+  "404Page": {
+    "header": "Oh no, we can’t find the page you’re looking for.",
+    "copy": "Hit the back button to return to the previous page or jump to the home page",
+    "link": "here",
+    "title": "404 | PowerOf",
+    "navigationText": "Navigated to 404 Page"
+  },
+
+  "ErrorPage": {
+    "header": "We're sorry, something appears to have gone wrong.",
+    "copy": "Please try again.",
+    "title": "Error | PowerOf",
+    "navigationText": "Navigated to Error Page"
+  },
+
+  "exploreActs": [
+    {
+      "id": "check-on-neighbors",
+      "title": "Check in on your neighbors",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>While we often go about our routines and may not engage in much day-to-day conversation, now would be a great time to do the opposite. What can you do today to reach out to your neighbors with an encouraging note or offer extra supplies to neighbors - particularly to the elderly and those who may have limited resources?</p><h4 class='h5'>Generosity Idea</h4><p>We're all in this together. Show your neighbors they're not alone and strengthen your community bond by letting them know how you can help.</p><ul><li>Offer to pick up supplies if you're already going to the store.</li><li>Help with yard work or other chores for those who are ill, elderly, or immuno-compromised.</li><li>Give them your contact info (<a aria-label='PDF postcard to give to self-isolating people (opens in new tab)' href='https://drive.google.com/file/d/1L_8GoI1zQ572fBZtElFfQZI9vNEwK7Rf/view'>here's a handy postcard</a>) in case they need to reach out or just want someone to chat with.</li></ul><p>Check out the <a aria-label='GivingTuesday Idea Factory (opens in new tab)' target='_blank' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' aria-label='Sign up for Daily Generosity reminders (opens in a new tab)' rel='noopener noreferrer' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "pandemic-lunch-drive",
+      "title": "Set up a pandemic lunch drive",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>There are many people without consistent access to food and the COVID-19 pandemic has made it even more difficult for them.</p><h4 class='h5'>Generosity Idea</h4><p>Starting a pandemic lunch drive within your community is an easy way to help those who are food insecure. Becoming a trusted food source for those in need is easier than you think. Here are some simple steps:</p><ul><li>Find a local food bank or homeless shelter and offer to bring them brown bagged lunches weekly</li><li>Choose and secure a food drop off location (could be your own home!)</li><li>Create a google doc to recruit members of the community to choose their own drop off locations as well</li><li>Encourage people to make 10 or more lunches with gifts and uplifting notes included in them</li><li>Deliver the collected lunches to the local food bank or homeless shelter</li></ul><p>Pass it on!</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in a new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "help-with-anxiety",
+      "title": "Help someone with their anxiety",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>While many therapists are now making their services available via video chat, paying for therapy is still expensive, and that can be all the harder to manage in an economic downturn. </p><p>Enter Crisis Text Line, a nonprofit that offers 24/7 free support to anyone experiencing any kind of personal distress. Demand for the text line is now double what it normally is, with up to 6,000 people texting a day - and they could really use your help.</p><h4 class='h5'>Generosity Idea</h4><p>If you have found yourself suddenly with ample free time, consider applying to become a volunteer. Anyone who is empathetic and has time would make a good crisis text counselor, but the greatest need is for night owls and people on the West Coast as volume is highest at night.</p><ul><li>To volunteer to become a crisis counselor, sign up for training <a target='_blank' aria-label='Sign up for crisis counselor training (opens in new tab)' rel='noopener noreferrer' href='https://www.crisistextline.org/become-a-volunteer/'>here</a>.</li><li>Know someone who needs help? Please share Crisis Text Line's hotline info.</li><li>To access the support from the text line yourself, text HOME to 741741 if you're in the U.S.</li><li>Numbers for those in <a target='_blank' rel='noopener noreferrer' aria-label='Phone numbers for Canada and U.K. (opens in a new tab)' href='https://www.crisistextline.org/text-us/'>Canada and the U.K. can be found here</a>.</li></ul><p>Check out the <a target='_blank' rel='noopener noreferrer' aria-label='GivingTuesday Idea Factory (opens in new tab)' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "write-a-letter",
+      "title": "Write someone a letter",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Receiving a meaningful handwritten letter from someone you love can be a truly uplifting experience. Letter writing is an amazing outlet to stay connected with others and combat feelings of isolation.</p><h4 class='h5'>Generosity Idea</h4><p>Put the electronics down and find the nearest sheet of paper and writing utensil. Write a long letter to a loved one that includes:</p><ul><li>A favorite memory or inside joke.</li><li>An illustration of your day - doodles are fine!</li><li>Something you've always appreciated about them.</li><li>A clipping from your local newspaper's comics section.</li><li>And if you're looking to spread kindness beyond those you know, check out the <a target='_blank' rel='noopener noreferrer' aria-label='#WriteToAppreciate (opens in new tab)' href='https://writetoappreciate.wordpress.com/'>#WriteToAppreciate</a> campaign started by teenager Sahil Swali. It encourages people to write letters to seniors in assisted living facilities and healthcare communities. Visit the site for instructions, ideas, and a list of facilities participating in the program.</li></ul><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "support-unsung-heroes",
+      "title": "Show support for unsung heroes",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Let's give a big shout out to all of the unsung heroes. Think grocery store workers, delivery workers, garbage collectors, custodial staff, the mail carrier. Their work, at risk to their own health, is vital to our community.</p><h4 class='h5'>Generosity Idea</h4><p>Beyond a kind word and wave, here are some ideas to show your support:</p><ul><li>Make store employees' lives as easy as possible by keeping shelves tidy, taking only what you need, and returning carts and baskets to their proper homes.</li><li>Write thank you notes and deliver them to the store or office, or send an email of praise to their managers.</li><li>Post a sign of support on your door, in a window or on your lawn to thank sanitation workers and delivery people.</li></ul><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "support-veterans",
+      "title": "Support our veterans",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Our veterans are among the most vulnerable population when it comes to COVID-19. Check out the <a href='https://www.givingtuesdaymilitary.com/' target='_blank' rel='noopener noreferrer' aria-label='GivingTuesdayMilitary (opens in new tab)'>GivingTuesdayMilitary</a> movement and find out how you can help.</p><h4 class='h5'>Generosity Idea</h4><p>Take a moment out of your day to make a veteran smile and let them know they aren't alone.</p><ul><li>Film a short video using your mobile phone to offer support, encouragement and hope to these heroes. Email it to your local veterans' home.</li><li>Check in with your local veterans home to see if they need supplies, donations, or other support.</li></ul><p>This is a difficult time for all families, but many military families are facing the pandemic and navigating a deployment. Know a military family? Reach out them and offer a grocery run, a listening ear, and/or words of gratitude.</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "give-with-your-kids",
+      "title": "Give together with your kids",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>As many parents and kids find themselves at home, now is a great time to give back together - and to establish family habits that will last beyond this crisis. We've included one idea for older kids below, but we encourage you to check out <a target='_blank' rel='noopener noreferrer' aria-label='GivingTuesdayKids (opens in new tab)' href='https://www.givingtuesdaykids.org/'>GivingTuesdayKids</a> for more ideas for children of all ages.</p><h4 class='h5'>Generosity Idea</h4><p>DIY Masks + PPE [Personal Protective Equipment]</p><p>Supplies and critical protective gear are in short supply. Now that we've all been encouraged to wear protective masks in public, it's time for us to get creative with making protective equipment for ourselves and the essential workers that need it most.</p><p>Engage your kids and make protective masks and equipment for yourselves, a neighbor, or an essential worker in need. There are tons of ways to create protective masks. Here are just a few resources:</p><ul><li>GivingTuesdayKids Leader Khloe Thompson created <a target='_blank' aria-label='YouTube video on how to make a DIY face mask (opens in new tab)' rel='noopener noreferrer' href='https://www.youtube.com/watch?v=jDHNyWovM1M&feature=youtu.be'>a video for a DIY face mask</a> for those of us that use sewing machines or want to learn how to sew.</li><li>The CDC has resources for <a target='_blank' rel='noopener noreferrer' aria-label='DIY face masks (opens in new tab)' href='https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html'>DIY face masks here</a>.</li><li>If you are able to provide PPE to health care workers in need or are in need yourself, check out <a target='_blank' rel='noopener noreferrer' aria-label='Get Us PPE (opens in new tab)' href='https://getusppe.org/'>Get Us PPE</a>. This amazing organization lists numerous hospitals in need of protective gear and gives specific instructions, including drop-off points, for donating to each one.</li></ul><p>Check out the <a target='_blank' rel='noopener noreferrer' aria-label='GivingTuesday Idea Factory (opens in new tab)' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "support-local-journalism",
+      "title": "Support local journalism",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>We rely on timely and accurate news reports to keep us informed and safe during crises like these.</p><h4 class='h5'>Generosity Idea</h4><p>Journalists and news outlets are working as hard as they can to get us the most up to date and accurate information. Here are ways you can support them:</p><ul><li>Send an email of appreciation to your local paper, favorite reporter, or editor letting them know their work is important to you.</li><li>Encourage others to read and share accurate, quality reporting.</li><li>If you can, subscribe to your local newspaper or news site or give a donation to your local public radio/television station to support their work.</li></ul><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    }
+  ],
+
+  "newExploreActs": [
+    {
+      "id": "add-kindness-to-calendar",
+      "title": "Add Kindness to Your Calendar",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>We often stick to a usual routine and forget to add something new or reach out. What if we created a generosity routine to build a habit of giving back and connecting with others?</p><h4 class='h5'>Generosity Idea</h4><p>See if you can create a generosity streak by adding acts of kindness to your to-do list. Download GivingTuesday's monthly <a href='https://www.givingtuesday.org/organizations#block--additional-resources' target='_blank' aria-label='Do Good Calendar (opens in new tab)' rel='noopener noreferrer'>Do Good Calendar</a> for inspiration.</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "brighten-your-neighborhood",
+      "title": "Brighten Your Neighborhood",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Spread cheer to passersby, mail carriers and neighbors on their daily walks. </p><h4 class='h5'>Generosity Idea</h4><p>Create and tape an encouraging message or inspiring doodle on your window. Take this idea one step further by drawing words of hope with chalk on the sidewalk or driveway. Hearts and rainbows are always a good idea!</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "gift-of-listening",
+      "title": "Give the Gift of Listening",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Really listening sounds easy, but let's face it, many of us are often distracted or multitasking during conversations with friends, family or coworkers. How can we make a point of being truly present?</p><h4 class='h5'>Generosity Idea</h4><p>Find time to reach out and talk to a friend who could use a listening ear, and be in the moment to give (and get!) more from this time together. Need some ideas on how to be a better listener? <a href='https://drive.google.com/file/d/1CmIH0Y2yZVxC4jjjegSMPOZxfVUNzn6e/view?usp=sharing' target='_blank' rel='noopener noreferrer' aria-label='Download the Conversation Guide (opens in new tab)'>Download the Conversation Guide</a> brought to you by a collaboration between <a href='https://weaving.us/' target='_blank' rel='noopener noreferrer' aria-label='Weaving Community (opens in new tab)'>Weaving Community</a>, <a href='http://www.listenfirstproject.org/' target='_blank' rel='noopener noreferrer' aria-label='Listen First Project (opens in new tab)'>Listen First Project</a> + <a href='https://www.aspeninstitute.org/programs/weave-the-social-fabric-initiative/' target='_blank' aria-label='Weave: The Social Fabric Project of the Aspen Institute (opens in new tab)' rel='noopener noreferrer'>Weave: The Social Fabric Project of the Aspen Institute</a>.</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "giving-circle",
+      "title": "Start or Join a Giving Circle",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Giving can be more fun when you can do it with a group of like-minded and generous peers.</p><h4 class='h5'>Generosity Idea</h4><p><a href='https://www.philanthropytogether.org/' target='_blank' aria-label='Philanthropy Together (opens in new tab)' rel='noopener noreferrer'>Philanthropy Together</a> offers this <a href='https://drive.google.com/file/d/1bCzo56T0d_o584jeW_rmqlw7UnNR90Ll/view?usp=sharing' target='_blank' aria-label='step-by-step guide (opens in new tab)' rel='noopener noreferrer'>step-by-step guide</a> to hosting a virtual pop-up giving circle that helps you talk about the importance of giving with your friends and family, and shows how simple it can be to pool your resources for shared impact.</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "reach-out-to-the-elderly",
+      "title": "Reach Out to Elderly Friends and Neighbors",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Because the risk of death from COVID-19 increases with age, family members and friends are limiting their visits to older people, whether they’re in nursing homes, assisted living facilities or just their own homes. But this new practice of physical distancing may contribute to another deadly epidemic among older adults: social isolation and loneliness.</p><h4 class='h5'>Generosity Idea</h4><p>Think of some small ways you can bring cheer to an older person that you know (or one that you might not). </p><ul><li>Call or video chat with an older person in your life.</li><li>Have a talent? Schedule a virtual performance.</li><li>Write a letter to a senior through <a href='https://lovefortheelderly.org/' target='_blank' aria-label='Love For The Elderly (opens in new tab)' rel='noopener noreferrer'>Love For The Elderly</a></li></ul><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "host-virtual-storytime",
+      "title": "Offer to Host a Virtual Storytime",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Even as some communities ease restrictions, many schools, camps, and recreational facilities are closed or have limited capacity, leaving many kids stuck at home while parents are busy working from home or on the front lines helping communities.</p><h4 class='h5'>Generosity Idea</h4><p>You can help entertain and inspire the imagination of kids bored at home. Take a video of yourself reading one of your favorite stories and share it online. Get creative with props, funny voices and more.</p><p>Visit <a href='https://www.storylineonline.net/' target='_blank' aria-label='Storyline (opens in new tab)' rel='noopener noreferrer'>Storyline</a> for inspiration from celebrities!</p> <p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "start-game-and-puzzle-exchange",
+      "title": "Start a Game and Puzzle Exchange",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Spending time playing games or solving a puzzle can help alleviate boredom and fosters connection with friends and families. Here's how you can expand your game-time horizons.</p><h4 class='h5'>Generosity Idea</h4><p>Many have turned to puzzles as a way to stay busy and share time with family while we practice physical distancing. So much so, some stores are reporting a puzzle shortage. Start an exchange to swap puzzles and board games with neighbors, friends and family. You can put them in the post or find spots in a common area to share a fun way to pass the time. <a href='https://twitter.com/OWHnews/status/1256546556771291137' target='_blank' rel='noopener noreferrer' aria-label='Add a charitable twist (opens in new tab)'>Add a charitable twist</a> by offering to donate to a good cause for every game shared.</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    },
+    {
+      "id": "share-causes-you-love",
+      "title": "Share Your Voice for a Cause You Love",
+      "cause": "Generosity Tips & Tools",
+      "subtitle": "GivingTuesday Idea Factory",
+      "path": "/explore/",
+      "partner": {
+        "partnerCode": "givingTuesday",
+        "name": "Giving Tuesday"
+      },
+      "copy": "<p>Volunteering and donating are important ways to support the causes you care about, but lending your voice to educate others about an issue and the critical work nonprofits do every day is another important way to show your support. </p><h4 class='h5'>Generosity Idea</h4><p>So many organizations are working hard to serve those in need and provide communities with enrichment. Lend your voice to help spread the word about their efforts by retweeting, sharing or posting to your network! Not a social networker? Email a few friends to share the latest news about the work your organization is doing, or write a letter of support and share it with your local media outlets. You can amplify their efforts to increase awareness and helps staff, volunteers and donors feel appreciated.</p><p>Check out the <a target='_blank' aria-label='GivingTuesday Idea Factory (opens in new tab)' rel='noopener noreferrer' href='https://now.givingtuesday.org/ideas/'>GivingTuesday Idea Factory</a> for more tips and ideas. You can also sign up for Daily Generosity reminders <a target='_blank' rel='noopener noreferrer' aria-label='Sign up for Daily Generosity reminders (opens in new tab)' href='https://mailchi.mp/givingtuesday/dailygenerosity'>here</a>.</p>"
+    }
+  ],
+
+  "faq": [
+    {
+      "header": "What is PowerOf?",
+      "copy": "<p>The PowerOf platform is a collaborative effort from several social sector organizations. It has been launched to connect people who want to make a difference with organizations addressing the impacts of COVID-19. The site aggregates thousands of listings from the partners involved and allows anyone to easily search within a specific geography or area of need, such as supporting schools or aiding direct response work in local communities.</p><p>We've been inspired by the millions of people who are doing whatever they can in this pandemic to improve the lives of others who have been affected. We know that many people want to do more – from volunteering to giving small donations or major gifts. They need an easy way to connect to organizations who offer meaningful opportunities to give to urgent needs.</p>"
+    },
+    {
+      "header": "Who is PowerOf for?",
+      "copy": "<p>PowerOf is for anyone who has anything to give to help make a difference, from volunteering a few hours online to funding a community organization or supporting a non-profit on the other side of the country.</p><p>Many non-profits are seeing huge demand for their services right now, but they are in crisis mode, struggling to meet people's needs while protecting their own staff, raising money, and moving their operations online. PowerOf is also for elevating those non-profits and giving them a new way to connect with potential volunteers and donors.</p>"
+    },
+    {
+      "header": "What is the geographic focus of PowerOf?",
+      "copy": "<p>The PowerOf platform is launching primarily with US-based giving and volunteering opportunities.</p>"
+    },
+    {
+      "header": "Will PowerOf continue after the pandemic is over?",
+      "copy": "<p>Right now, the partners are focused on galvanizing the philanthropic response to the COVID-19 crisis. We will take key learnings along the way to evaluate its future in the long term.</p>"
+    },
+    {
+      "header": "Who is behind PowerOf?",
+      "copy": "<p>The Bill & Melinda Gates Foundation is funding the creation and maintenance of the PowerOf platform, while Candid, Charity Navigator, DonorsChoose, Giving Tuesday, GlobalGiving and VolunteerMatch are providing content, data, and giving opportunities, and helping spread the word to inform potential givers.  Microsoft Tech for Social Impact provided technical assistance to help build the PowerOf platform.</p>"
+    },
+    {
+      "header": "How were the initial partners selected for PowerOf?",
+      "copy": "<p>Launch partners were chosen for their depth and breadth of vetted giving opportunities, tagged at both a geographic and cause level; the technical stability and security insurances of their data; the ability to provide refreshed and updated content, preferably through an application program interface (API); the type of content offerings; their long-standing track records of handling a large number of user transactions; and their reputation and standing in the social sector.</p>"
+    },
+    {
+      "header": "Will you add additional partners in the future?",
+      "copy": "<p>We may add additional partners to increase offerings for donors, but these are early days and we know we have much to learn about what users and the sector need as we progress.</p>"
+    },
+    {
+      "header": "How are the funds sorted? How can I get my fund higher on the list?",
+      "copy": "<p>The organizations come to us through the partner API's and we handle all equally (don't promote one over the others).  The order in which funds are displayed is random based on what the feed sends us and on the location of the user or as filtered by the user. The query pulls community foundations and public charities that are tagged with COVID-19.</p>"
+    },
+    {
+      "header": "How often will the pages be refreshed? How will the site work if new initiatives become available?",
+      "copy": "<p>The site will aggregate listings from each of the partners. As they add new opportunities daily, the content on the site will be refreshed. </p>"
+    },
+    {
+      "header": "How can my non-profit partner with PowerOf or be featured on the website?",
+      "copy": "<p>The Bill & Melinda Gates Foundation evaluates on an ongoing basis how we can continue to strengthen non-profits and the philanthropic sector during and beyond this crisis. This includes considering new opportunities for partnership and ways to highlight the good work of our partners. PowerOf currently pulls content from these partners, so visit each of their websites to learn more about how they feature opportunities:</p><ul><li><a href='https://candid.org/about/faq' target='_blank' rel='noopener noreferrer' aria-label='Candid FAQ (opens in new tab)'>Candid</a></li><li><a href='https://charitynavigator.org/covid19' target='_blank' rel='noopener noreferrer' aria-label='Charity Navigator (opens in new tab)'>Charity Navigator</a></li><li><a href='https://help.donorschoose.org/hc/en-us' target='_blank' rel='noopener noreferrer' aria-label='DonorsChoose help page (opens in new tab)'>DonorsChoose</a></li><li><a href='https://www.givingtuesday.org/faq' target='_blank' rel='noopener noreferrer' aria-label='GivingTuesday FAQ (opens in new tab)'>GivingTuesday</a></li><li><a href='https://www.globalgiving.org/join/' target='_blank' rel='noopener noreferrer' aria-label='GlobalGiving (opens in new tab)'>GlobalGiving</a></li><li><a href='https://vmhelp.zendesk.com/hc/en-us' target='_blank' rel='noopener noreferrer' aria-label='VolunteerMatch FAQ (opens in new tab)'>VolunteerMatch</li></ul>"
+    },
+    {
+      "header": "My organization is running a COVID-19 emergency fund.  How do I get on PowerOf?",
+      "copy": "<p>Please <a href='mailto:coronavirus@candid.org'>email Candid</a> to determine if your organization is eligible for inclusion on its <a href='https://candid.org/explore-issues/coronavirus/funds' target='_blank' rel='noopener noreferrer' aria-label='List of Candid coronavirus funds (opens in new tab)'>list</a>.</p>"
+    },
+    {
+      "header": "I am a non-profit looking for funds.  Where can I find grant support?",
+      "copy": "<p>Please visit Candid's <a href='https://candid.org/explore-issues/coronavirus/rfps' target='_blank' rel='noopener noreferrer' aria-label='list of funding opportunities (opens in new tab)'>list of funding opportunities</a>.</p>"
+    },
+    {
+      "header": "I'm a small business or entrepreneur looking for help.  Where can I find it?",
+      "copy": "<p>Visit <a href='https://www.covidcap.com/' target='_blank' rel='noopener noreferrer' aria-label='COVIDCAP (opens in new tab)'>COVIDCAP</a> run by CASE at Duke University.</p>"
+    }
+  ],
+
+  "about": [
+    {
+      "header": "Bill & Melinda Gates Foundation",
+      "copy": "<p>Guided by the belief that every life has equal value, the Bill &amp; Melinda Gates Foundation works to help all people lead healthy, productive lives. In the United States, it seeks to ensure that all people—especially those with the fewest resources—have access to the opportunities they need to succeed in school and life. In developing countries, it focuses on improving people's health and giving them the chance to lift themselves out of hunger and extreme poverty. The foundation supports the creation of the PowerOf site and convenes partners. It does not receive any funds from PowerOf. <a href='https://www.gatesfoundation.org/' target='_blank' rel='noopener noreferrer' aria-label='Learn more about the Bill & Melinda Gates Foundation (opens in new tab)'>Learn more here</a></p>",
+      "partner": {
+        "name": "Bill & Melinda Gates Foundation",
+        "partnerCode": "gates"
+      }
+    },
+    {
+      "header": "Candid",
+      "copy": "<p>Every year, millions of nonprofits spend trillions of dollars around the world. Candid finds out where that money comes from, where it goes, and why it matters. Through research, collaboration, and training, Candid connects people who want to change the world to the resources they need to do it. Foundation Center and GuideStar combined 88 years of experience to become Candid on February 1, 2019. <a href='https://candid.org/' target='_blank' rel='noopener noreferrer' aria-label='Learn more about Candid (opens in new tab)'>Learn more here</a></p>",
+      "partner": {
+        "name": "Powered by Candid",
+        "partnerCode": "candid"
+      }
+    },
+    {
+      "header": "Charity Navigator",
+      "copy": "<p>The world's largest and most-utilized independent nonprofit evaluator, empowers donors of all sizes with free access to data, tools, and resources to guide philanthropic decision making. Through Charity Navigator's ratings, nonprofits are equipped with the nonprofit sector's premier trust indicator and a powerful platform to raise awareness and funds. <a href='https://www.charitynavigator.org/' target='_blank' rel='noopener noreferrer' aria-label='Learn more about Charity Navigator (opens in new tab)'>Learn more here</a></p>",
+      "partner": { "partnerCode": "charityNavigator" }
+    },
+    {
+      "header": "DonorsChoose",
+      "copy": "<p>DonorsChoose was founded by a school teacher. It allows givers to donate money to help public school teachers pay for books, supplies, technology, and other needs. They're helping teachers get these resources to students at home, so kids in every community can keep learning. <a href='https://www.donorschoose.org/' target='_blank' rel='noopener noreferrer' aria-label='Learn more about DonorsChoose (opens in new tab)'>Learn more here</a></p>",
+      "partner": { "partnerCode": "donorsChoose" }
+    },
+    {
+      "header": "GivingTuesday",
+      "copy": "<p>GivingTuesday was created in 2012 by New York's 92nd Street Y and became its own organization in 2019. It's now a global movement and independent organization that has inspired hundreds of millions of people and organizations with an annual, international day of grassroots giving (this year, December 1st) and a year-round generosity movement. GivingTuesday responded to the pandemic with a global day of giving and unity, GivingTuesdayNow, on May 5th. <a href='https://www.givingtuesday.org/' target='_blank' rel='noopener noreferrer' aria-label='Learn more about GivingTuesday (opens in new tab)'>Learn more here</a></p>",
+      "partner": { "partnerCode": "givingTuesday" }
+    },
+    {
+      "header": "GlobalGiving",
+      "copy": "<p>The largest global crowdfunding community connecting nonprofits, donors, and companies in nearly every country. We help nonprofits from Afghanistan to Zimbabwe (and hundreds of places in between) access the tools, training, and support they need to be more effective and make our world a better place. <a href='https://www.globalgiving.org/' target='_blank' rel='noopener noreferrer' aria-label='Learn more about GlobalGiving (opens in new tab)'>Learn more here</a></p>",
+      "partner": { "partnerCode": "globalGiving" }
+    },
+    {
+      "header": "Microsoft Tech for Social Impact",
+      "copy": "<p>Microsoft Tech for Social Impact, part of Microsoft Philanthropies, is dedicated to providing affordable and accessible technology solutions for nonprofits to accelerate social impact. Microsoft provided technical assistance to build the PowerOf platform. <a href='https://www.microsoft.com/en-us/nonprofits' target='_blank' rel='noopener noreferrer' aria-label='Learn more about Microsoft Tech for Social Impact (opens in new tab)'>Learn more here</a></p>",
+      "partner": {
+        "name": "Microsoft Tech for Social Impact",
+        "partnerCode": "microsoft"
+      }
+    },
+    {
+      "header": "VolunteerMatch",
+      "copy": "<p>VolunteerMatch, the world's largest volunteer network, makes it easy for good people and good causes to connect. Supporting a community of nonprofits, volunteers, and businesses since 1998, VolunteerMatch has helped the social sector engage more than $14B worth of volunteer services, and makes it possible for millions to volunteer virtually. <a href='https://www.volunteermatch.org/' target='_blank' rel='noopener noreferrer' aria-label='Learn more about VolunteerMatch (opens in new tab)'>Learn more here</a></p>",
+      "partner": { "partnerCode": "volunteerMatch" }
+    }
+  ]
+}
